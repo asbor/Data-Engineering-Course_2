@@ -1,0 +1,12 @@
+{
+    "plantuml.render": "Local",
+    "plantuml.jar": "/home/lbrl0259/plantuml-1.2025.1.jar",
+    "plantuml.exportOutDir": "",
+    "github.copilot.chat.experimental.mcp.enabled": true,
+    "github.copilot.chat.experimental.mcp.servers": {
+        "obsidian": {
+            "command": "obsidian-mcp",
+            "args": ["/home/lbrl0259/obsidian-vault"]
+        }
+    }
+}
